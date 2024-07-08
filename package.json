@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "domain-functions": "^2.6.0",
+    "react-hook-form": "^7.52.1",
+    "remix-forms": "^2.3.0",
+    "yup": "^1.4.0",
+    "zod": "^3.23.8"
+  }
+}
